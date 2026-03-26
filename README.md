@@ -51,7 +51,7 @@ Looking to work on:
 
 ---
 
-⚡ I focus on building systems that actually work — not just look impressive.
+⚡ I focus on building systems that actually work, not just look impressive.
 
 
 ## 🌐 Socials:
